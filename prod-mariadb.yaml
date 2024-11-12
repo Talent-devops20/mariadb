@@ -19,7 +19,7 @@
 image:
   registry: 144486164212.dkr.ecr.us-west-2.amazonaws.com
   repository: talent/mariadb
-  tag: 10.3
+  tag: 10.3.22
   ## Specify a imagePullPolicy
   ## Defaults to 'Always' if image tag is 'latest', else set to 'IfNotPresent'
   ## ref: http://kubernetes.io/docs/user-guide/images/#pre-pulling-images
